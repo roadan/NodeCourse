@@ -1,0 +1,15 @@
+{
+  "name": "sela-mongo-sample",
+  "description": "A MongoDB sample for the Sela Node.js course",
+  "version": "0.1.0",
+  "author": {
+    "name": "Yaniv Rodenski",
+    "email": "yanivr@sela.co.il"
+  },
+  "main": "mongo",
+  "dependencies": {
+    "mongodb": "*",
+    "express": "*",
+    "mongoose": "~3.8.8"
+  }
+}

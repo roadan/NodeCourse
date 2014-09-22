@@ -1,0 +1,9 @@
+doctype
+html
+    head
+        title=title
+    body
+        each item in students
+            p Hello
+                a(href='/students/#{item.id}')  #{item.name}
+

@@ -1,0 +1,22 @@
+doctype
+html
+    head
+        title Hello Jade
+        - var env = 'prod'
+        - if (env == 'dev') {
+            script(src='/scripts/bootstrap/js/bootstrap.js')
+            link(href='/scripts/bootstrap/css/bootstrap.css', rel='stylesheet', media='screen')
+        - } else {
+            script(src='/scripts/bootstrap/js/bootstrap.min.js')
+            link(href='/scripts/bootstrap/css/bootstrap.min.css', rel='stylesheet', media='screen')
+        - }
+    body
+        script(src='http://code.jquery.com/jquery.js')
+        script(src='/scripts/bootstrap/js/bootstrap.js')
+
+        p Jade generated paragraph
+        div#div1
+            a.btn(href='#myModal', role='button', data-toggle='modal') bootstrap demo
+
+        div#myModal(class='modal hide fade', tabindex='-1', role='dialog', aria-labelledby='myModalLabel', aria-hidden='true')
+           p bla bla bla

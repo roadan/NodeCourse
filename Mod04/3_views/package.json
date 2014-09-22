@@ -1,0 +1,9 @@
+{
+    "name": "usingviews",
+    "description": "sample for Sela node.js course",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "3.1.0",
+        "connect": "2.7.2"
+    }
+}
