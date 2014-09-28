@@ -1,0 +1,15 @@
+{
+  "name": "list",
+  "version": "1.0.0",
+  "description": "list files",
+  "main": "list.js",
+  "dependencies": {
+    "colors": "^0.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nir Noy",
+  "license": "ISC"
+}
