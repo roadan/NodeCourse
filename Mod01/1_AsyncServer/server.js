@@ -21,6 +21,8 @@ var handleRequests = function(req,res){
             res.writeHead(200, {'content-type':'application/xhtml'})
             res.end(str);
         });
+
+        //response.pipe(res);
     });
 
     req.end();
