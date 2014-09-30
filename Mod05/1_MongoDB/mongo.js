@@ -1,13 +1,11 @@
 var express = require('express'),
     path = require('path'),
-    students = require('./controllers/studentsMongoose.js');
+    students = require('./controllers/students.js');
 
-app = express();
+var app = express();
+app.set('view engine', 'jade');
+app.set('views', __dirname + '/views');
 
-app.configure(function(){
-    app.set('view engine', 'jade');
-    app.set('views', __dirname + '/views');
-});
 
 students.init(app);
 

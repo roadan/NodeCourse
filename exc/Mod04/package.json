@@ -1,13 +1,14 @@
 {
-  "name": "usingviews",
-  "description": "sample for Sela node.js course",
+  "name": "Mod04",
   "version": "1.0.0",
+  "description": "Nir's samples for node course",
+  "main": "connectServer.js",
   "dependencies": {
-    "connect": "2.7.2",
     "express": "^3.17.5",
-    "jade": "^1.7.0"
+    "jade": "^1.7.0",
+    "connect": "^2.8.8"
   },
-  "main": "app.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

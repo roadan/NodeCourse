@@ -2,7 +2,7 @@ var http = require('http');
 
 var server = http.createServer(function(req, res){
 
-    if(req.method == 'POST'){
+    if(req.method === 'POST'){
 
         var body = '';
 

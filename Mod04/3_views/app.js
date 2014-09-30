@@ -1,6 +1,4 @@
-var express = require('express'),
-    path = require('path'),
-    connect = require('connect');
+var express = require('express')
 
 app = express();
 
@@ -30,5 +28,6 @@ app.get('/home',function(req,res){
     res.render('homepage');
 
 });
+
 
 app.listen(313);
