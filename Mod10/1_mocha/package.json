@@ -1,0 +1,17 @@
+{
+  "name": "1_mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "should": "^4.0.4"
+  }
+}
