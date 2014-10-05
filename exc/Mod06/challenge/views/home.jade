@@ -1,0 +1,11 @@
+extends layout
+block append head
+	script(type='text/javascript', src='/socket.io/socket.io.js')
+	
+block content
+	div.container
+			div.panel.panel-default
+				div#tweetPanel.panel-body(style="height:400px;overflow:auto")
+block endBody
+	script(type='text/javascript', src='/scripts/twitter.js')
+
