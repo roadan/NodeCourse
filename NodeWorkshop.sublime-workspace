@@ -120,34 +120,18 @@
 	"buffers":
 	[
 		{
-			"file": "Mod08/1_async/async_series.js",
+			"file": "Mod07/2_IPC/app.js",
 			"settings":
 			{
-				"buffer_size": 431,
+				"buffer_size": 466,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "Mod08/1_async/async_parallel.js",
+			"file": "Mod08/1_async/final/async_each.js",
 			"settings":
 			{
-				"buffer_size": 432,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Mod08/1_async/final/async_waterfall.js",
-			"settings":
-			{
-				"buffer_size": 637,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Mod08/1_async/pyramid.js",
-			"settings":
-			{
-				"buffer_size": 371,
+				"buffer_size": 609,
 				"line_ending": "Windows"
 			}
 		}
@@ -196,13 +180,28 @@
 	},
 	"file_history":
 	[
+		"/C/sela/git/NodeCourse/Mod07/1_simple_cluster/app.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/spawn.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/fork.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/exec.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/calc.js",
+		"/C/sela/git/NodeCourse/Mod06/public/scripts/chat.js",
+		"/C/sela/git/NodeCourse/Mod06/views/users.jade",
+		"/C/sela/git/NodeCourse/Mod08/1_async/async_series.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/async_parallel.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_waterfall.js",
 		"/C/sela/git/NodeCourse/Mod08/1_async/pyramid.js",
+		"/C/sela/git/NodeCourse/Mod06/app.js",
+		"/C/sela/git/NodeCourse/Mod06/final/challenge/package.json",
+		"/C/sela/git/NodeCourse/Mod03/3_emmitingEvents/blaApi2.js",
+		"/C/sela/git/NodeCourse/Mod03/3_emmitingEvents/app2.js",
+		"/C/sela/git/NodeCourse/Mod06/final/app.js",
+		"/C/sela/git/NodeCourse/Mod06/services/chatService.js",
 		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_series.js",
 		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_serial.js",
 		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_parallel.js",
 		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_each.js",
 		"/C/sela/git/NodeCourse/Mod08/1_async/async_each.js",
-		"/C/sela/git/NodeCourse/Mod08/1_async/async_parallel.js",
 		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_serial",
 		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_parallel",
 		"/C/sela/git/NodeCourse/Mod08/1_async/async_parallel",
@@ -212,10 +211,6 @@
 		"/C/sela/git/NodeCourse/exc/Mod06/challenge/challenge.js",
 		"/C/sela/git/NodeCourse/Mod06/final/challenge/views/home.jade",
 		"/C/sela/git/NodeCourse/Mod06/final/challenge/challenge.js",
-		"/C/sela/git/NodeCourse/Mod07/0_child_process/exec.js",
-		"/C/sela/git/NodeCourse/Mod07/0_child_process/spawn.js",
-		"/C/sela/git/NodeCourse/Mod07/0_child_process/fork.js",
-		"/C/sela/git/NodeCourse/Mod07/0_child_process/calc.js",
 		"/C/sela/git/NodeCourse/Mod06/final/challenge.js",
 		"/C/sela/git/NodeCourse/Mod10/2_jasmin/myClass.js",
 		"/C/sela/git/NodeCourse/Mod10/2_jasmin/spiesSpecs/spiesSpec.js",
@@ -228,7 +223,6 @@
 		"/C/sela/git/NodeCourse/Mod06/final/public/scripts/chat.js",
 		"/C/sela/git/NodeCourse/Mod06/final/views/layout.jade",
 		"/C/sela/git/NodeCourse/Mod06/final/services/chatService.js",
-		"/C/sela/git/NodeCourse/Mod06/final/app.js",
 		"/C/sela/git/NodeCourse/Mod07/2_IPC/app.js",
 		"/C/sela/git/NodeCourse/Mod10/2_jasmin/myClass",
 		"/C/sela/git/NodeCourse/Mod06/final/scripts/chat.js",
@@ -250,7 +244,6 @@
 		"/C/sela/git/NodeCourse/Mod06/final/public/scripts/script.js",
 		"/C/sela/git/NodeCourse/Mod10/2_jasmin/calc.js",
 		"/C/sela/git/NodeCourse/Mod06/final/routes/routes.js",
-		"/C/sela/git/NodeCourse/Mod06/app.js",
 		"/C/sela/git/NodeCourse/Mod06/npm-debug.log",
 		"/C/sela/git/NodeCourse/exc/Mod04/views/home.jade",
 		"/C/sela/git/NodeCourse/exc/Mod04/expressdemo.js",
@@ -314,16 +307,7 @@
 		"/C/sela/git/NodeCourse/Mod04/3_views/app.js",
 		"/C/sela/git/NodeCourse/Mod04/4_data/app.js",
 		"/C/sela/git/NodeCourse/Mod04/4_data/views/looping.jade",
-		"/C/sela/git/NodeCourse/Mod04/3_views/views/homepage.jade",
-		"/C/sela/git/NodeCourse/exc/Mod04/views/users.jad",
-		"/C/sela/git/NodeCourse/exc/Mod04/node_modules/express/package.json",
-		"/C/sela/git/NodeCourse/exc/Mod04/public/css/file.css",
-		"/C/sela/git/NodeCourse/Mod04/3_views/node_modules/express/package.json",
-		"/C/sela/git/NodeCourse/exc/Mod04/public/file.css",
-		"/C/sela/git/NodeCourse/Mod04/4_data/package.json",
-		"/C/sela/git/NodeCourse/Mod04/3_views/package.json",
-		"/C/sela/git/NodeCourse/Mod04/2_routing/app.js",
-		"/C/sela/git/NodeCourse/Mod04/2_routing/configuration.js"
+		"/C/sela/git/NodeCourse/Mod04/3_views/views/homepage.jade"
 	],
 	"find":
 	{
@@ -394,28 +378,28 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "Mod08/1_async/async_series.js",
+					"file": "Mod07/2_IPC/app.js",
 					"settings":
 					{
-						"buffer_size": 431,
+						"buffer_size": 466,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								431,
-								431
+								345,
+								345
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -425,82 +409,28 @@
 				},
 				{
 					"buffer": 1,
-					"file": "Mod08/1_async/async_parallel.js",
+					"file": "Mod08/1_async/final/async_each.js",
 					"settings":
 					{
-						"buffer_size": 432,
+						"buffer_size": 609,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								431,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Mod08/1_async/final/async_waterfall.js",
-					"settings":
-					{
-						"buffer_size": 637,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								451,
-								451
+								393,
+								393
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "Mod08/1_async/pyramid.js",
-					"settings":
-					{
-						"buffer_size": 371,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								160,
-								238
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 132.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
