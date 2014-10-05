@@ -5,46 +5,17 @@
 	var nickModal;
 
 	$(function(){
-		// var socket=io.connect("/");
-		var chatCom=io.connect("/chatCom"),
-			chatSys=io.connect("/chatSys");		
-
-		chatCom.on("message",function(data){
-			var msg = JSON.parse(data);
-			displayMessage(msg);
-		});	
-
-		chatSys.on("message",function(data){
-			var msg = JSON.parse(data);
-			displayMessage(msg);
-		});	
-
-		chatSys.on("name_set",function(data){
-			var msg = data;
-			displayMessage({type:"serverMessage",message:"Hi "+ data.nickname});
-			nickModal.modal('hide');
-		});
-
-		chatSys.on("user_joined",function(data){
-			displayMessage({type:"serverMessage",message:data.nickname +" has joined"});
-		});
 
 		panel=$("#chatPanel");
 		$("#sendBtn").click(function(){
 			var txt=$("#msgInput").val();
-			chatCom.send(JSON.stringify({
-				type:"userMessage",
-				message:txt
-			}));
-
+			
 		});
 
-		nickModal=$(".modal").modal();
+		// nickModal=$(".modal").modal();
 
 		nickModal.find("button").click(function(){
 			var nick=nickModal.find('input').val();
-			chatSys.emit("set_name",{nickname:nick});
-			
 		});
 
 
