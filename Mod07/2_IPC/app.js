@@ -11,7 +11,7 @@ if (cluster.isMaster) {
 
 	// sending an IPC message
 	for (var id in cluster.workers) {
-		cluster.workers[id].send('Hi, you are worer id:' + id);
+		cluster.workers[id].send('Hi, you are worker id:' + id);
 	}
 	
 } else {
@@ -23,4 +23,4 @@ if (cluster.isMaster) {
 	
 	});
 
-}
+}k
