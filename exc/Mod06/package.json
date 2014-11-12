@@ -1,0 +1,17 @@
+{
+  "name": "Mod06",
+  "version": "1.0.0",
+  "description": "sdjflkjdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nir Noy",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^0.2.12"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}

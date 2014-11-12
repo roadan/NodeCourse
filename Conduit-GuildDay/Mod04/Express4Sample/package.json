@@ -1,0 +1,19 @@
+{
+  "name": "Express4",
+  "version": "1.0.0",
+  "description": "sadsad asd",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2",
+    "express-session": "^1.9.1",
+    "jade": "^1.7.0",
+    "morgan": "^1.5.0"
+  }
+}

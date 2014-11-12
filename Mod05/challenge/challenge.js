@@ -6,7 +6,6 @@
 */
 
 // install these packages from npm
-// use express@3
 var express = require('express'),
 	mongoose=require('mongoose');
 

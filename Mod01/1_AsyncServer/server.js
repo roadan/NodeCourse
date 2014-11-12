@@ -1,8 +1,8 @@
 var http = require('http');
 
 var options = {
-    host: 'api.worldbank.org',
-    path: '/countries',
+    host: 'api.icndb.com',
+    path: '/jokes/random',
     method: 'GET'
 };
 
@@ -18,13 +18,11 @@ var handleRequests = function(req,res){
         });
 
         response.on('end', function(){
-            res.writeHead(200, {'content-type':'application/xhtml'})
+            res.writeHead(200, {'content-type': 'application/json'})
             res.end(str);
         });
 
-        //response.pipe(res);
     });
-
     req.end();
 };
 

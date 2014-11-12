@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"set",
+				"setTimeout(function, milliseconds);"
+			],
+			[
+				"middle",
+				"middleWarefunc"
+			],
+			[
+				"mongo",
+				"mongoClient"
+			],
+			[
+				"list",
+				"list-group"
+			],
+			[
+				"listr",
+				"list-group-item"
+			],
+			[
+				"middlw",
+				"middlewarefunc"
+			],
+			[
+				"st",
+				"strm1"
+			],
+			[
+				"su",
+				"supports"
+			],
+			[
+				"v",
+				"viewsSetup"
+			],
+			[
+				"d",
+				"ddoc"
+			],
+			[
+				"couc",
+				"couchbaseClient"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"valu",
+				"values"
+			],
+			[
+				"C",
+				"console"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"ran",
+				"rants"
+			],
+			[
+				"id",
+				"ids"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"a",
+				"api"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Contr",
+				"controller"
+			],
+			[
+				"pr",
+				"privateImages"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git:",
+				"Git: Commit"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 195.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/sela/git/NodeCourse/exc/Mod04/Express4/server.js",
+		"/C/sela/git/NodeCourse/NodeWorkshop.sublime-project",
+		"/C/sela/git/NodeCourse/exc/Mod05/challenge.js",
+		"/C/sela/git/NodeCourse/exc/Mod05/app2.js",
+		"/C/sela/git/NodeCourse/exc/Mod04/express.js",
+		"/C/sela/git/NodeCourse/Mod05/challenge/challenge.js",
+		"/C/sela/git/NodeCourse/exc/Mod04/Express4/views/register.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/Express4/views/users.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/Express4/views/500.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/Express4/views/404.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/views/404.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/views/500.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/Express4/views/home.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/views/layout.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/views/home.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/Express4/views/myPage.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/Express4/views/layout.jade",
+		"/C/sela/git/NodeCourse/Mod03/3_emmitingEvents/blaApi2.js",
+		"/C/sela/git/NodeCourse/Mod04/2_routing/app.js",
+		"/C/sela/git/NodeCourse/Mod03/1_creatingModules/logger.js",
+		"/C/sela/git/NodeCourse/Mod01/app.js",
+		"/C/sela/git/NodeCourse/Mod01/1_AsyncServer/server.js",
+		"/C/sela/git/NodeCourse/Mod01/2_setTimeout/main.js",
+		"/C/sela/git/NodeCourse/exc/Mod01/files.js",
+		"/C/sela/git/NodeCourse/Mod01/3_FileSystem/list.js",
+		"/C/sela/git/NodeCourse/Mod01/3_FileSystem/readfilesync.js",
+		"/C/sela/git/NodeCourse/Mod02/3_HttpChunked/chunked.js",
+		"/C/sela/git/NodeCourse/Mod03/1_creatingModules/app.js",
+		"/C/sela/git/NodeCourse/Mod01/3_FileSystem/pipes.js",
+		"/C/sela/git/NodeCourse/Mod01/3_FileSystem/package.json",
+		"/C/sela/git/NodeCourse/exc/Mod04/connectServer.js",
+		"/C/sela/git/NodeCourse/exc/Mod05/app.js",
+		"/C/sela/git/NodeCourse/exc/mod10/mathArray.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/exec.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/spawn.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/final/fork.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/final/calc.js",
+		"/C/sela/git/NodeCourse/Mod07/2_IPC/app.js",
+		"/C/sela/git/NodeCourse/exc/Mod06/package.json",
+		"/C/Users/nir.noy/Documents/mocks/bookerV2/rename.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_each.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/async_each.js",
+		"/C/sela/git/NodeCourse/Mod06/services/chatService.js",
+		"/C/sela/git/NodeCourse/Mod06/public/scripts/chat.js",
+		"/C/sela/git/NodeCourse/Mod06/app.js",
+		"/C/sela/git/NodeCourse/Mod06/final/services/chatService.js",
+		"/C/sela/git/NodeCourse/exc/mod10/math.js",
+		"/C/sela/git/NodeCourse/Mod10/1_mocha/calc.js",
+		"/C/sela/git/NodeCourse/exc/mathArray.js",
+		"/C/sela/git/NodeCourse/exc/mod10/math",
+		"/C/sela/git/NodeCourse/Mod06/final/public/scripts/chat.js",
+		"/C/sela/git/NodeCourse/Mod06/views/chat.jade",
+		"/C/sela/git/NodeCourse/Mod06/views/layout.jade",
+		"/C/sela/git/NodeCourse/Mod06/final/app.js",
+		"/C/sela/git/NodeCourse/Mod03/3_emmitingEvents/app.js",
+		"/C/sela/git/NodeCourse/Mod03/3_emmitingEvents/inherits.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/specs/spechelper.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/specs/calcSpec.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/spiesSpecs/spiesSpec.js",
+		"/C/sela/git/NodeCourse/Mod10/1_mocha/test/calctest.js",
+		"/C/sela/git/NodeCourse/Mod10/1_mocha/test-final/calctest.js",
+		"/C/sela/git/NodeCourse/Mod07/1_simple_cluster/final/app.js",
+		"/C/sela/git/NodeCourse/Mod07/1_simple_cluster/app.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/fork.js",
+		"/C/sela/git/NodeCourse/Mod07/0_child_process/calc.js",
+		"/C/sela/git/NodeCourse/Mod06/views/users.jade",
+		"/C/sela/git/NodeCourse/Mod08/1_async/async_series.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/async_parallel.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_waterfall.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/pyramid.js",
+		"/C/sela/git/NodeCourse/Mod06/final/challenge/package.json",
+		"/C/sela/git/NodeCourse/Mod03/3_emmitingEvents/app2.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_series.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_serial.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_parallel.js",
+		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_serial",
+		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_parallel",
+		"/C/sela/git/NodeCourse/Mod08/1_async/async_parallel",
+		"/C/sela/git/NodeCourse/exc/Mod06/challenge/public/scripts/twitter.js",
+		"/C/sela/git/NodeCourse/Mod06/final/challenge/public/scripts/twitter.js",
+		"/C/sela/git/NodeCourse/Mod06/final/challenge/views/layout.jade",
+		"/C/sela/git/NodeCourse/exc/Mod06/challenge/challenge.js",
+		"/C/sela/git/NodeCourse/Mod06/final/challenge/views/home.jade",
+		"/C/sela/git/NodeCourse/Mod06/final/challenge/challenge.js",
+		"/C/sela/git/NodeCourse/Mod06/final/challenge.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/myClass.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/myObject.js",
+		"/C/sela/git/NodeCourse/Mod06/final/views/chat.jade",
+		"/C/sela/git/NodeCourse/Mod06/final/views/layout.jade",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/myClass",
+		"/C/sela/git/NodeCourse/Mod06/final/scripts/chat.js",
+		"/C/sela/git/NodeCourse/Mod06/package.json",
+		"/C/sela/git/NodeCourse/Mod06/challenge/challenge.js",
+		"/C/sela/git/NodeCourse/exc/mod06/views/tweets.jade",
+		"/C/sela/git/NodeCourse/Mod06/challenge/views/tweets.jade",
+		"/C/sela/git/NodeCourse/exc/mod06/public/scripts/script.js",
+		"/C/sela/git/NodeCourse/Mod06/challenge/public/scripts/script.js",
+		"/C/sela/git/NodeCourse/exc/mod06/challenge.js",
+		"/C/sela/git/NodeCourse/Mod06/challenge/views/tweets.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/specs/spiesSpec.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/spies.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/spiespecs/spiesSpec.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/app.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/npm-debug.log",
+		"/C/sela/git/NodeCourse/Mod06/final/routes/home.js",
+		"/C/sela/git/NodeCourse/Mod06/final/routes/chat.js",
+		"/C/sela/git/NodeCourse/Mod06/final/public/scripts/script.js",
+		"/C/sela/git/NodeCourse/Mod10/2_jasmin/calc.js",
+		"/C/sela/git/NodeCourse/Mod06/final/routes/routes.js",
+		"/C/sela/git/NodeCourse/Mod06/npm-debug.log",
+		"/C/sela/git/NodeCourse/exc/Mod04/expressdemo.js",
+		"/C/sela/git/NodeCourse/exc/Mod04/views/myPage2.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/views/register2.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/views/users2.jade",
+		"/C/sela/git/NodeCourse/exc/Mod05/views/login.jade",
+		"/C/sela/git/NodeCourse/exc/Mod04/views/layout2.jade",
+		"/C/sela/git/NodeCourse/Mod03/2_advancedModules/usingGlobals.js",
+		"/C/sela/git/NodeCourse/Mod03/3_emmitingEvents/blaApi.js",
+		"/C/sela/git/NodeCourse/exc/Mod04/connectdemo.js",
+		"/C/sela/git/NodeCourse/Mod03/2_advancedModules/package.json",
+		"/C/sela/git/NodeCourse/Mod03/2_advancedModules/logger.js",
+		"/C/sela/git/NodeCourse/Mod03/2_advancedModules/app.js",
+		"/C/sela/git/NodeCourse/Mod02/2_HttpInput/postdemo.js",
+		"/C/sela/git/NodeCourse/Mod02/4_Net/tcpserver.js",
+		"/C/sela/git/NodeCourse/Mod02/4_Net/tcpclient.js",
+		"/C/sela/git/NodeCourse/Mod02/4_Net/tcpclient",
+		"/C/sela/git/NodeCourse/Mod02/1_HttpServer/httpServerDemo.js",
+		"/C/sela/git/NodeCourse/Mod02/1_HttpServer/httpServer.js"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"authenticator",
+			"couny",
+			"myUsers",
+			"path",
+			"connect",
+			"response",
+			"');",
+			"epel",
+			"npm_pa",
+			"chef",
+			"[",
+			"passw",
+			"pass",
+			"designd",
+			"couchbaseClient",
+			"doc, meta) {\n  if(meta.type == \"json\" && \n     doc.type == \"rant\" && \n     doc.rantAbout){\n  	emit(doc.rantAbout.userName, null);",
+			"\n  if(meta.type == \"json\" && \n     doc.type == \"rant\" && \n     doc.rantAbout){\n  	emit(doc.rantAbout.userName, null);",
+			"     doc.type == \"rant\" && \n     doc.rantAbout){\n  	emit(doc.rantAbout.userName, null);",
+			"{\n  if(meta.type == \"json\" && \n     doc.type == \"rant\" && \n     doc.rantAbout){\n  	emit(doc.rantAbout.userName, null);\n  }",
+			"\n  if(meta.type == \"json\" && \n     doc.type == \"rant\" && \n     doc.rantAbout){\n  	emit(doc.rantAbout.userName, null);\n  }",
+			"bu",
+			"buc",
+			"couchn",
+			"CBpp(",
+			"cb",
+			"_cb",
+			"viewq",
+			"buc",
+			"box",
+			"server",
+			"node",
+			"geo",
+			"bbox",
+			"4104",
+			"couchbaseClient",
+			"keys"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
+	"status_bar_visible": true
+}

@@ -10,7 +10,7 @@ fs.readdir(process.argv[2], function(err,files){
         fs.stat(path, function(err, stats){
             if(stats != undefined){
                 if(stats.isDirectory()){
-                    console.log(path.red );
+                    console.log(path.red);
                 } else {
                     console.log(path.green);
                 }
