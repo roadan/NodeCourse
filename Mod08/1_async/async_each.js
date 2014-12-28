@@ -17,7 +17,7 @@ Item.prototype.someAsyncCall=function(callback){
 var items=[];
 for (var i = 0; i < 10; i++) {
 	items.push(new Item(i+1));
-};
+};P
 
 function doSomethingOnceAllAreDone(){
 	console.log("async calls are all done?");

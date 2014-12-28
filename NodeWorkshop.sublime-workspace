@@ -4,6 +4,106 @@
 		"selected_items":
 		[
 			[
+				"sdp-e",
+				"sdp-express-usermongoRoutes	userRoutesMongo"
+			],
+			[
+				"sd-",
+				"sdp-mongoconnection	MongoConnection"
+			],
+			[
+				"err",
+				"err"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"re",
+				"redirect"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"ext",
+				"extended"
+			],
+			[
+				"sa",
+				"save"
+			],
+			[
+				"bod",
+				"body"
+			],
+			[
+				"exte",
+				"extends"
+			],
+			[
+				"sdp-",
+				"sdp-register-jade	register-jade"
+			],
+			[
+				"users",
+				"usersArr"
+			],
+			[
+				"exp",
+				"exports"
+			],
+			[
+				"u",
+				"username"
+			],
+			[
+				"sdp",
+				"sdp-navbar	navbar-jade"
+			],
+			[
+				"Home",
+				"http.IncomingMessage"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"layo",
+				"layout"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"path",
+				"path.join"
+			],
+			[
+				"niam",
+				"nicknames"
+			],
+			[
+				"consoel",
+				"console.log"
+			],
+			[
 				"body",
 				"bodyParser"
 			],
@@ -64,10 +164,6 @@
 				"console"
 			],
 			[
-				"re",
-				"require"
-			],
-			[
 				"end",
 				"endDate"
 			],
@@ -96,14 +192,6 @@
 				"ids"
 			],
 			[
-				"err",
-				"error"
-			],
-			[
-				"con",
-				"console"
-			],
-			[
 				"a",
 				"api"
 			],
@@ -124,10 +212,18 @@
 	"buffers":
 	[
 		{
-			"file": "NodeWorkshop.sublime-project",
+			"file": "SocketIO/public/scripts/chat.js",
 			"settings":
 			{
-				"buffer_size": 66,
+				"buffer_size": 1399,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SocketIO/services/chatService.js",
+			"settings":
+			{
+				"buffer_size": 1113,
 				"line_ending": "Windows"
 			}
 		}
@@ -135,11 +231,35 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 380.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
+				"sni",
+				"Snippet: bootstrap-jade"
+			],
+			[
+				"sbi",
+				"Snippet: BDD it pending"
+			],
+			[
 				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pacl",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa	",
 				"Package Control: Install Package"
 			],
 			[
@@ -159,11 +279,15 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 424.0
 	},
 	"console":
 	{
-		"height": 195.0
+		"height": 195.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
 	},
 	"distraction_free":
 	{
@@ -174,10 +298,67 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/sela/git/NodeCourse",
+		"/C/sela/git/NodeCourse/Conduit-GuildDay/Mod04/Express4",
+		"/C/sela/git/NodeCourse/Conduit-GuildDay/Mod05",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/models",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/routes",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/views",
+		"/C/sela/git/NodeCourse/Mod05/1_MongoDB",
+		"/C/sela/git/NodeCourse/SocketIO",
+		"/C/sela/git/NodeCourse/SocketIO/public",
+		"/C/sela/git/NodeCourse/SocketIO/public/scripts",
+		"/C/sela/git/NodeCourse/SocketIO/services",
+		"/C/sela/git/NodeCourse/SocketIO/views",
+		"/C/sela/git/NodeCourse/views"
+	],
 	"file_history":
 	[
-		"/C/sela/git/NodeCourse/exc/Mod04/Express4/server.js",
+		"/C/sela/git/NodeCourse/Conduit-GuildDay/Mod05/app2.js",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/routes/users.js",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/models/usersMongo.js",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/models/users.js",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/routes/index.js",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/server.js",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/views/users.jade",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/views/login.jade",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/views/layout.jade",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/views/home3.jade",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/views/register.jade",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/package.json",
+		"/C/sela/git/NodeCourse/exc/Mod06/node_modules/twitter/lib/twitter.js",
+		"/C/sela/git/NodeCourse/mod04/express/app/views/home2.jade",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/views/home.jade",
+		"/C/Users/nir.noy/AppData/Roaming/Sublime Text 3/Packages/User/snippets/layout-jade.sublime-snippet",
+		"/C/sela/git/NodeCourse/SocketIO/app.js",
+		"/C/Users/nir.noy/AppData/Roaming/Sublime Text 3/Packages/User/snippets/bootstrap-jade.sublime-snippet",
+		"/C/sela/git/NodeCourse/home2.jade",
+		"/C/sela/git/NodeCourse/views/home.jade",
+		"/C/sela/git/NodeCourse/SocketIO/services/chatService.js",
+		"/C/sela/git/NodeCourse/SocketIO/public/scripts/chat.js",
+		"/C/sela/git/NodeCourse/Mod04/Express/app/npm-debug.log",
+		"/C/sela/git/NodeCourse/Conduit-GuildDay/Mod05/public/scripts/script.js",
+		"/C/sela/git/NodeCourse/Conduit-GuildDay/Mod05/app.js",
+		"/C/sela/git/NodeCourse/SocketIO/views/chat.jade",
+		"/C/sela/git/NodeCourse/SocketIO/public/scripts/bootstrap.js",
+		"/C/sela/git/NodeCourse/SocketIO/public/scripts/bootstrap.min.js",
+		"/C/Users/nir.noy/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/sela/git/NodeCourse/Mod06/services/chatService.js",
+		"/C/sela/git/NodeCourse/Mod06/app.js",
+		"/C/Users/nir.noy/AppData/Roaming/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/C/sela/git/NodeCourse/exc/Mod06/challenge/challenge.js",
+		"/C/Users/nir.noy/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/sela/git/NodeCourse/SocketIO",
+		"/C/Users/nir.noy/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/nir.noy/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
 		"/C/sela/git/NodeCourse/NodeWorkshop.sublime-project",
+		"/C/sela/git/NodeCourse/Mod08/1_async/async_each.js",
+		"/C/sela/git/NodeCourse/Conduit-GuildDay/challenge/challenge.js",
+		"/C/Users/nir.noy/AppData/Roaming/Sublime Text 2/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/nir.noy/AppData/Roaming/Sublime Text 2/Packages/Terminal/Terminal.sublime-settings",
+		"/C/sela/git/NodeCourse/exc/Mod04/Express4/server.js",
 		"/C/sela/git/NodeCourse/exc/Mod05/challenge.js",
 		"/C/sela/git/NodeCourse/exc/Mod05/app2.js",
 		"/C/sela/git/NodeCourse/exc/Mod04/express.js",
@@ -217,10 +398,7 @@
 		"/C/sela/git/NodeCourse/exc/Mod06/package.json",
 		"/C/Users/nir.noy/Documents/mocks/bookerV2/rename.js",
 		"/C/sela/git/NodeCourse/Mod08/1_async/final/async_each.js",
-		"/C/sela/git/NodeCourse/Mod08/1_async/async_each.js",
-		"/C/sela/git/NodeCourse/Mod06/services/chatService.js",
 		"/C/sela/git/NodeCourse/Mod06/public/scripts/chat.js",
-		"/C/sela/git/NodeCourse/Mod06/app.js",
 		"/C/sela/git/NodeCourse/Mod06/final/services/chatService.js",
 		"/C/sela/git/NodeCourse/exc/mod10/math.js",
 		"/C/sela/git/NodeCourse/Mod10/1_mocha/calc.js",
@@ -257,7 +435,6 @@
 		"/C/sela/git/NodeCourse/exc/Mod06/challenge/public/scripts/twitter.js",
 		"/C/sela/git/NodeCourse/Mod06/final/challenge/public/scripts/twitter.js",
 		"/C/sela/git/NodeCourse/Mod06/final/challenge/views/layout.jade",
-		"/C/sela/git/NodeCourse/exc/Mod06/challenge/challenge.js",
 		"/C/sela/git/NodeCourse/Mod06/final/challenge/views/home.jade",
 		"/C/sela/git/NodeCourse/Mod06/final/challenge/challenge.js",
 		"/C/sela/git/NodeCourse/Mod06/final/challenge.js",
@@ -266,48 +443,11 @@
 		"/C/sela/git/NodeCourse/Mod06/final/views/chat.jade",
 		"/C/sela/git/NodeCourse/Mod06/final/views/layout.jade",
 		"/C/sela/git/NodeCourse/Mod10/2_jasmin/myClass",
-		"/C/sela/git/NodeCourse/Mod06/final/scripts/chat.js",
-		"/C/sela/git/NodeCourse/Mod06/package.json",
-		"/C/sela/git/NodeCourse/Mod06/challenge/challenge.js",
-		"/C/sela/git/NodeCourse/exc/mod06/views/tweets.jade",
-		"/C/sela/git/NodeCourse/Mod06/challenge/views/tweets.jade",
-		"/C/sela/git/NodeCourse/exc/mod06/public/scripts/script.js",
-		"/C/sela/git/NodeCourse/Mod06/challenge/public/scripts/script.js",
-		"/C/sela/git/NodeCourse/exc/mod06/challenge.js",
-		"/C/sela/git/NodeCourse/Mod06/challenge/views/tweets.js",
-		"/C/sela/git/NodeCourse/Mod10/2_jasmin/specs/spiesSpec.js",
-		"/C/sela/git/NodeCourse/Mod10/2_jasmin/spies.js",
-		"/C/sela/git/NodeCourse/Mod10/2_jasmin/spiespecs/spiesSpec.js",
-		"/C/sela/git/NodeCourse/Mod10/2_jasmin/app.js",
-		"/C/sela/git/NodeCourse/Mod10/2_jasmin/npm-debug.log",
-		"/C/sela/git/NodeCourse/Mod06/final/routes/home.js",
-		"/C/sela/git/NodeCourse/Mod06/final/routes/chat.js",
-		"/C/sela/git/NodeCourse/Mod06/final/public/scripts/script.js",
-		"/C/sela/git/NodeCourse/Mod10/2_jasmin/calc.js",
-		"/C/sela/git/NodeCourse/Mod06/final/routes/routes.js",
-		"/C/sela/git/NodeCourse/Mod06/npm-debug.log",
-		"/C/sela/git/NodeCourse/exc/Mod04/expressdemo.js",
-		"/C/sela/git/NodeCourse/exc/Mod04/views/myPage2.jade",
-		"/C/sela/git/NodeCourse/exc/Mod04/views/register2.jade",
-		"/C/sela/git/NodeCourse/exc/Mod04/views/users2.jade",
-		"/C/sela/git/NodeCourse/exc/Mod05/views/login.jade",
-		"/C/sela/git/NodeCourse/exc/Mod04/views/layout2.jade",
-		"/C/sela/git/NodeCourse/Mod03/2_advancedModules/usingGlobals.js",
-		"/C/sela/git/NodeCourse/Mod03/3_emmitingEvents/blaApi.js",
-		"/C/sela/git/NodeCourse/exc/Mod04/connectdemo.js",
-		"/C/sela/git/NodeCourse/Mod03/2_advancedModules/package.json",
-		"/C/sela/git/NodeCourse/Mod03/2_advancedModules/logger.js",
-		"/C/sela/git/NodeCourse/Mod03/2_advancedModules/app.js",
-		"/C/sela/git/NodeCourse/Mod02/2_HttpInput/postdemo.js",
-		"/C/sela/git/NodeCourse/Mod02/4_Net/tcpserver.js",
-		"/C/sela/git/NodeCourse/Mod02/4_Net/tcpclient.js",
-		"/C/sela/git/NodeCourse/Mod02/4_Net/tcpclient",
-		"/C/sela/git/NodeCourse/Mod02/1_HttpServer/httpServerDemo.js",
-		"/C/sela/git/NodeCourse/Mod02/1_HttpServer/httpServer.js"
+		"/C/sela/git/NodeCourse/Mod06/final/scripts/chat.js"
 	],
 	"find":
 	{
-		"height": 41.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -322,6 +462,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"router",
+			"new",
+			"\"),",
+			"new",
 			"authenticator",
 			"couny",
 			"myUsers",
@@ -375,33 +519,65 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "NodeWorkshop.sublime-project",
+					"file": "SocketIO/public/scripts/chat.js",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 66,
+						"buffer_size": 1399,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								400,
+								400
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SocketIO/services/chatService.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -409,11 +585,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 23.0
 	},
 	"input":
 	{
-		"height": 39.0
+		"height": 40.0
 	},
 	"layout":
 	{
@@ -446,9 +622,10 @@
 	{
 		"height": 100.0
 	},
+	"project": "NodeWorkshop.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -464,13 +641,32 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"C:\\conduit-git\\webshots\\webshots.sublime-project"
+			]
 		],
 		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
 	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 346.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
