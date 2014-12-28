@@ -1,0 +1,29 @@
+html
+	head
+		title NodeJS workshop
+		link(href="/styles/bootstrap.min.css", rel="stylesheet")
+		link(href="/styles/bootstrap-theme.min.css", rel="stylesheet")
+
+	body
+		nav.navbar.navbar-default.navbar-static-top
+			div.container
+				ul.nav.navbar-nav
+					li
+						a(href="/home")  Link
+					li
+						a(href="/users") users
+				ul.nav.navbar-nav.navbar-right
+					if isAuthenticated 
+						li 
+							a Hello #{currentUser.username}!
+					else
+						li
+							a(href="/users/register")  Register
+						li
+							a(href="/users/login") Login
+
+		div.container
+			block content
+
+
+

@@ -1,0 +1,16 @@
+extends layout
+
+block content
+	div.container
+		div.page-header
+			h1 Register
+		form(method="POST", action="/users/register")
+			div.form-group
+				input.form-control(type="text", name="username", placeholder="Username")
+			div.form-group
+				input.form-control(type="email", name="email", placeholder="Email")
+			div.form-group
+				input.form-control(type="password", name="password", placeholder="Password")
+			
+			input.form-control.btn-primary(type="submit" value="Submit") 
+

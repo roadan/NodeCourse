@@ -1,0 +1,10 @@
+extends layout
+block content
+
+	div.container
+		ul.list-group
+				li.list-group-item
+					h4.list-group-item-heading #{user.username}
+					p.list-groug-item-text #{user._id}
+					p.list-groug-item-text #{user.email}
+					p.list-groug-item-text #{user.password}
